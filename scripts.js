@@ -76,7 +76,5 @@ for (const articulo of articulos) {
 /* P-R-E-M-I-U-M */
 const getRandom = (data) => { return data[parseInt(Math.random() * data.length)] }
 
-const randomMe = ["agua", "jamon", "aguacate"]
-
 const paleta = ["#8ECAE6", "#219EBC", "#023047", "#FFB703", "#FB8500"]
 const gifs = ["./assets/magic-1.gif", "./assets/magic-2.gif", "./assets/magic-3.gif", "./assets/magic-4.gif", "./assets/magic-5.gif", "./assets/magic-6.gif"]
